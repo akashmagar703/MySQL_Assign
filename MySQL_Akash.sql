@@ -1,5 +1,5 @@
-create database MySQL_Assignment1_Shubham;
-use MySQL_Assignment1_Shubham;
+create database MySQL_Assignment1_Akash;
+use MySQL_Assignment1_Akash;
 create table SalesPeople(
 Snum int,
 primary key(Snum),
